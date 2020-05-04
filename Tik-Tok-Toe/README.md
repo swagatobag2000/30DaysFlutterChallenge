@@ -23,7 +23,7 @@ Build legendary Tic Tac Toe game in flutter.
 
 ### Screenshots
 
-<img src="images/ss1.jpg" height="500em" /><img src="images/ss2.jpg" height="500em" />![](images/vs1.gif)<img src="images/ss3.jpg" height="500em" /><img src="images/ss4.jpg" height="500em" />
+<img src="images/ss1.jpg" height="400em" /><img src="images/ss2.jpg" height="400em" />![](images/vs1.gif|width=400)<img src="images/ss3.jpg" height="400em" /><img src="images/ss4.jpg" height="400em" />
 
 ### Created & Maintained By
 
