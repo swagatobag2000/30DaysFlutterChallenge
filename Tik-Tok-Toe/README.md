@@ -1,4 +1,4 @@
-# tictoctoegame
+# Tic-Tok-Toe Game
 
 A new Flutter application.
 
@@ -23,9 +23,7 @@ Build legendary Tic Tac Toe game in flutter.
 
 ### Screenshots
 
-<img src="images/ss1.png" height="300em" />
-<img src="images/ss2.png" height="300em" />
-<img src="images/ss3.png" height="300em" />
+<img src="images/ss1.jpg" height="300em" /><img src="images/ss2.jpg" height="300em" /><img src="images/ss3.jpg" height="300em" />
 
 ### Created & Maintained By
 
