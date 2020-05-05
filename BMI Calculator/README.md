@@ -1,10 +1,11 @@
-# BMI Calculator
+# BMI Calculator 💪
 
 A new Flutter application.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This is a Body Mass Index Calculator App inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -23,7 +24,7 @@ Build legendary Tic Tac Toe game in flutter.
 
 ### Screenshots
 
-<img src="images/ss1.png" height="450em" /><img src="images/vs1.gif" height="450" /><img src="images/ss2.jpg" height="450em" />
+<img src="images/ss1.png" height="450em" />&emsp;<img src="images/vs1.gif" height="450" />&emsp;<img src="images/ss2.png" height="450em" />
 
 ### Created & Maintained By
 
